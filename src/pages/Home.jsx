@@ -54,7 +54,7 @@ const Home = () => {
                 <span className="small fw-bold tracking-wide">IPL 2026 EXCLUSIVE</span>
               </div>
               <h1 className="display-2 fw-bold mb-4 line-height-tight">
-                Experience Cricket <br />
+                Shaurya ka Cricket <br />
                 <span className="text-gradient-blue">Like Never Before</span>
               </h1>
               <p className="lead text-secondary mb-5 max-w-2xl mx-auto mx-lg-0 fs-4">
